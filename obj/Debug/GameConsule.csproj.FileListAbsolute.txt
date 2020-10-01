@@ -1,0 +1,7 @@
+C:\Users\angel\source\repos\GameConsule\GameConsule\bin\Debug\GameConsule.exe.config
+C:\Users\angel\source\repos\GameConsule\GameConsule\bin\Debug\GameConsule.exe
+C:\Users\angel\source\repos\GameConsule\GameConsule\bin\Debug\GameConsule.pdb
+C:\Users\angel\source\repos\GameConsule\GameConsule\obj\Debug\GameConsule.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\GameConsule\GameConsule\obj\Debug\GameConsule.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\GameConsule\GameConsule\obj\Debug\GameConsule.exe
+C:\Users\angel\source\repos\GameConsule\GameConsule\obj\Debug\GameConsule.pdb
